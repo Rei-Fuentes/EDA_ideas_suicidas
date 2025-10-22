@@ -1,0 +1,5 @@
+Variable,N_Total,N_Outliers,Pct_Outliers,Limite_Inferior,Limite_Superior
+severidad_depresion_ultimo_mes,1029,0,0.0%,-3.00,21.00
+severidad_ansiedad_ultimo_mes,1029,0,0.0%,-2.00,22.00
+inflexibilidad_psicologica,1029,0,0.0%,-2.50,57.50
+bienestar_psicologico,1029,4,0.4%,6.50,34.50

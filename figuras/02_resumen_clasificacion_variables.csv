@@ -1,0 +1,7 @@
+Categoría,N_Variables,Porcentaje,Variables
+Sociodemográficas,8,19.0%,"edad, sexo_asignado_al_nacer, identidad_de_genero, orientacion_sexual, genero_de_pareja, estado_civil, estado_de_relacion, educacion_de_los_padres"
+Clínicas,8,19.0%,"episodio_depresivo_dicotomico, severidad_depresion_ultimo_mes, años_de_episodios_depresivos, meses_de_sintomas_depresivos_ultimo_año, ansiedad_generalizada_dicotomico, severidad_ansiedad_ultimo_mes, años_de_ansiedad_generalizada, meses_de_ansiedad_generalizada_ultimo_año"
+Riesgo Suicida,6,14.3%,"ideacion_suicida_pasiva_dicotomica, ideacion_suicida_activa_dicotomica, autolesion_no_suicida_dicotomica, ideacion_ultimo_mes_dicotomica, severidad_ideacion_ultimo_mes, positivo_en_ideacion"
+Bienestar (SWB),7,16.7%,"swb_7items_1, swb_7items_2, swb_7items_3, swb_7items_4, swb_7items_5, swb_7items_6, swb_7items_7"
+Inflexibilidad (AAQ),7,16.7%,"aaq_ii_1, aaq_ii_2, aaq_ii_3, aaq_ii_4, aaq_ii_5, aaq_ii_6, aaq_ii_7"
+Compuestas,3,7.1%,"inflexibilidad_psicologica, bienestar_psicologico, perfil_latente"

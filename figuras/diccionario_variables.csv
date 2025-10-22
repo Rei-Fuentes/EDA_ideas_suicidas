@@ -1,0 +1,43 @@
+variable,tipo,descripcion,categoria,hipotesis
+responseid,Identificador,ID único del participante,Identificación,
+edad,Numérica continua,Edad del participante en años,Sociodemográfica,
+sexo_asignado_al_nacer,Categórica binaria,"Sexo asignado al nacer (1=Masculino, 2=Femenino)",Sociodemográfica,
+identidad_de_genero,Categórica,Identidad de género autopercibida,Sociodemográfica,
+orientacion_sexual,Categórica,Orientación sexual del participante,Sociodemográfica,
+genero_de_pareja,Categórica,Género de la pareja actual (si aplica),Sociodemográfica,
+estado_civil,Categórica,Estado civil del participante,Sociodemográfica,
+estado_de_relacion,Categórica,Estado actual de relación sentimental,Sociodemográfica,
+educacion_de_los_padres,Categórica ordinal,Nivel educativo de los padres,Sociodemográfica,
+ideacion_suicida_pasiva_dicotomica,Categórica binaria,"Presencia de ideación suicida pasiva (0=No, 1=Sí)",Riesgo Suicida,Variable dependiente principal
+ideacion_suicida_activa_dicotomica,Categórica binaria,"Presencia de ideación suicida activa (0=No, 1=Sí)",Riesgo Suicida,Variable dependiente principal
+ideacion_ultimo_mes_dicotomica,Categórica binaria,"Ideación suicida en el último mes (0=No, 1=Sí)",Riesgo Suicida,
+severidad_ideacion_ultimo_mes,Numérica ordinal,Severidad de la ideación suicida en el último mes (escala),Riesgo Suicida,
+positivo_en_ideacion,Categórica binaria,Screening positivo para ideación suicida,Riesgo Suicida,
+autolesion_no_suicida_dicotomica,Categórica binaria,Presencia de conductas autolesivas sin intención suicida,Riesgo Suicida,
+episodio_depresivo_dicotomico,Categórica binaria,"Presencia de episodio depresivo actual (0=No, 1=Sí)",Sintomatología Depresiva,H3: Asociada con mayor ideación suicida
+severidad_depresion_ultimo_mes,Numérica ordinal,Severidad de síntomas depresivos en el último mes,Sintomatología Depresiva,H3: Asociada con mayor ideación suicida
+años_de_episodios_depresivos,Numérica continua,Duración en años de episodios depresivos,Sintomatología Depresiva,
+meses_de_sintomas_depresivos_ultimo_año,Numérica continua,Meses con síntomas depresivos en el último año,Sintomatología Depresiva,
+ansiedad_generalizada_dicotomico,Categórica binaria,"Diagnóstico de ansiedad generalizada (0=No, 1=Sí)",Sintomatología Ansiosa,H3: Asociada con mayor ideación suicida
+severidad_ansiedad_ultimo_mes,Numérica ordinal,Severidad de síntomas ansiosos en el último mes,Sintomatología Ansiosa,H3: Asociada con mayor ideación suicida
+años_de_ansiedad_generalizada,Numérica continua,Duración en años de ansiedad generalizada,Sintomatología Ansiosa,
+meses_de_ansiedad_generalizada_ultimo_año,Numérica continua,Meses con ansiedad generalizada en el último año,Sintomatología Ansiosa,
+crisis_de_panico_totales,Numérica discreta,Número total de crisis de pánico experimentadas,Sintomatología Ansiosa,
+ptsd_screener,Categórica binaria,"Screening positivo para TEPT (0=No, 1=Sí)",Trauma,
+swb_7items_1,Numérica ordinal,Ítem 1 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_2,Numérica ordinal,Ítem 2 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_3,Numérica ordinal,Ítem 3 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_4,Numérica ordinal,Ítem 4 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_5,Numérica ordinal,Ítem 5 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_6,Numérica ordinal,Ítem 6 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+swb_7items_7,Numérica ordinal,Ítem 7 de Escala de Bienestar Subjetivo,Bienestar Psicológico,H2: Relacionado con menor ideación suicida
+bienestar_psicologico,Numérica continua,Puntaje total de Bienestar Psicológico (agregado SWB),Bienestar Psicológico,H2: VARIABLE CLAVE - Relacionado con menor ideación suicida
+aaq_ii_1,Numérica ordinal,Ítem 1 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_2,Numérica ordinal,Ítem 2 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_3,Numérica ordinal,Ítem 3 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_4,Numérica ordinal,Ítem 4 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_5,Numérica ordinal,Ítem 5 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_6,Numérica ordinal,Ítem 6 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+aaq_ii_7,Numérica ordinal,Ítem 7 de AAQ-II (Inflexibilidad Psicológica),Inflexibilidad Psicológica,H1: Relacionado con mayor ideación suicida
+inflexibilidad_psicologica,Numérica continua,Puntaje total de Inflexibilidad Psicológica (agregado AAQ-II),Inflexibilidad Psicológica,H1: VARIABLE CLAVE - Relacionada con mayor ideación suicida
+perfil_latente,Categórica,Perfil latente de riesgo (resultado de análisis previo),Clasificación,
