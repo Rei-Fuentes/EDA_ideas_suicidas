@@ -64,41 +64,41 @@ Se incluyen únicamente para:
 ---
 
 ## Estructura del Proyecto
-.
-├── README.md
-├── suicidalidad_jovenes_anonimizado.csv
-├── codigo_eda_completo.py
-└── figuras/
-    ├── diccionario_variables.csv
-    ├── 01_distribucion_variables_categorias.png
-    ├── 02_composicion_dataset_pie.png
-    ├── 02_resumen_clasificacion_variables.csv
-    ├── 03_porcentaje_missing_por_variable.png
-    ├── 03_analisis_valores_perdidos.csv
-    ├── 03_analisis_outliers.csv
-    ├── 03_reporte_calidad_datos.csv
-    ├── 04_boxplots_variables_continuas.png
-    ├── 04_heatmap_completitud.png
-    ├── 05_distribucion_edad.png
-    ├── 06_variables_sociodemograficas.png
-    ├── 07_prevalencia_condiciones_clinicas.png
-    ├── 08_distribuciones_severidad.png
-    ├── 09_variables_riesgo_suicida.png
-    ├── 10_comparacion_grupos_ideacion.png
-    ├── 11_escalas_psicometricas.png
-    ├── 12_matriz_correlaciones_profesional.png
-    ├── 12_matriz_correlaciones.csv
-    ├── 12_correlaciones_ordenadas.csv
-    ├── 13_comparacion_metodos_clustering.png
-    ├── 13_comparacion_clustering.csv
-    ├── 14_perfiles_caracterizacion.png
-    ├── 15_mapa_3d_todos_ideadores.html
-    ├── 16_comparacion_perfiles_radar.html
-    ├── 17_comparacion_perfiles_radar_matplotlib.png
-    └── 17_resumen_perfiles_radar.csv
+
+- `README.md` — Documentación principal
+- `suicidalidad_jovenes_anonimizado.csv` — Dataset simulado y anonimizado
+- `codigo_eda_completo.py` — Script de análisis completo
+- `figuras/` — Carpeta con todos los outputs:
+  - `diccionario_variables.csv`
+  - `01_distribucion_variables_categorias.png`
+  - `02_composicion_dataset_pie.png`
+  - `02_resumen_clasificacion_variables.csv`
+  - `03_porcentaje_missing_por_variable.png`
+  - `03_analisis_valores_perdidos.csv`
+  - `03_analisis_outliers.csv`
+  - `03_reporte_calidad_datos.csv`
+  - `04_boxplots_variables_continuas.png`
+  - `04_heatmap_completitud.png`
+  - `05_distribucion_edad.png`
+  - `06_variables_sociodemograficas.png`
+  - `07_prevalencia_condiciones_clinicas.png`
+  - `08_distribuciones_severidad.png`
+  - `09_variables_riesgo_suicida.png`
+  - `10_comparacion_grupos_ideacion.png`
+  - `11_escalas_psicometricas.png`
+  - `12_matriz_correlaciones_profesional.png`
+  - `12_matriz_correlaciones.csv`
+  - `12_correlaciones_ordenadas.csv`
+  - `13_comparacion_metodos_clustering.png`
+  - `13_comparacion_clustering.csv`
+  - `14_perfiles_caracterizacion.png`
+  - `15_mapa_3d_todos_ideadores.html`
+  - `16_comparacion_perfiles_radar.html`
+  - `17_comparacion_perfiles_radar_matplotlib.png`
+  - `17_resumen_perfiles_radar.csv`
 
 
-> ✅ Este repositorio **es seguro para compartir públicamente**, ya que **no contiene datos reales**.
+> Este repositorio **es seguro para compartir públicamente**, ya que **no contiene datos reales**.
 
 ---
 
