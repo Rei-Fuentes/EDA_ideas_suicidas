@@ -65,11 +65,10 @@ Se incluyen únicamente para:
 
 ## Estructura del Proyecto
 .
-├── README.md                              
-├── suicidalidad_jovenes_anonimizado.csv   
-├── codigo_eda_completo.py                  
-│
-└── figuras/                              
+├── README.md
+├── suicidalidad_jovenes_anonimizado.csv
+├── codigo_eda_completo.py
+└── figuras/
     ├── diccionario_variables.csv
     ├── 01_distribucion_variables_categorias.png
     ├── 02_composicion_dataset_pie.png
